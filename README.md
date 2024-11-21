@@ -124,4 +124,4 @@ There are many ways to defend against SQL Injection, including:
 
 In this case, the query takes advantage of the default apostrophe formatting and lack of input sanitization.
 #
-
+**Summary: In this lab, I was able to test website vulnerabilities and see the importance of secure coding practices. As well as, how the structure of the underlying database relates to the way I'm able to exploit the vulnerabilities.**
